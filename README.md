@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shreyash<br>👀 I’m interested in probably everything just don't want to waste time.<br>🌱 I’m currently learnin design, JS, CSS<br>💞️ I’m looking for a potential mentor to guide me through this deep mud of confusion and inclearence.<br>📫 How to reach me: X id : @shreyash_moon<br>⚡ Fun fact: listening to ASMR can actually make you feel kind of sleepy and relaxed.
+👋 Hi, I’m Shreyash<br>👀 I’m interested in probably everything just don't want to waste time.<br>🌱 I’m currently learnin advance JS & Python<br>💞️ I’m looking for a potential mentor to guide me through this deep mud of confusion and inclearence.<br>📫 How to reach me: X id : @shreyash_moon<br>⚡ Fun fact: listening to ASMR can actually make you feel kind of sleepy and relaxed.
 
 
 ## 🌐 Socials:
